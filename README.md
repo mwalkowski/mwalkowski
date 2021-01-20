@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-### About Me
 - 🔭 I’m currently working on [VMC](https://github.com/DSecureMe/vmc)
 <!--
 Here are some ideas to get you started:
