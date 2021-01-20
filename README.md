@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<!--
-**mwalkowski/mwalkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### About Me
+- 🔭 I’m currently working on [VMC](https://github.com/DSecureMe/vmc)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🤔 Where to find me
+
+[![Linkedin Badge](https://img.shields.io/badge/-Michał%20Walkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)](https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)
