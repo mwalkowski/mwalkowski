@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ### 🤔 Where to find me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Michał%20Walkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)](https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)
+[![Linkedin Badge](https://img.shields.io/badge/-Michał%20Walkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)](https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)  
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
 ![MWalkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwalkowski&show_icons=true&theme=vision-friendly-dark)
