@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [VMC](https://github.com/DSecureMe/vmc)
+- 🔭 I’m currently working on [Flask-RSA](https://github.com/mwalkowski/flask-rsa)
 <!--
 Here are some ideas to get you started:
 
