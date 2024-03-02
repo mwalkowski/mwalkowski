@@ -14,9 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### 🤔 Where to find me
-
-[![Linkedin Badge](https://img.shields.io/badge/-Michał%20Walkowski-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)](https://www.linkedin.com/in/micha%C5%82-walkowski-9737309a/)  
-
-![MWalkowski's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwalkowski&show_icons=true&theme=vision-friendly-dark)
